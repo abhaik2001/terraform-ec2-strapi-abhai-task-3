@@ -6,4 +6,4 @@ Deployed and ran Strapi on EC2 successfully.
 
 https://www.loom.com/share/3ed13e0b57e94e39aa854123c15d5d94
 
-PR raised as part of Task-3 submission requirement.
+Pull request raised to satisfy Task-3 submission requirement.
